@@ -126,7 +126,6 @@ The project includes more than 10 visualizations, such as:
 * Migration trend visualization
 * Distribution analysis using histograms and box plots
 
-(Screenshots of plots can be added here if required.)
 
 ---
 
